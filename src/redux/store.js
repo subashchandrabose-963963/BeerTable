@@ -1,5 +1,5 @@
 import { createStore } from 'redux';
-import rootReducer from './reducers'; // Assuming you have a rootReducer
+import rootReducer from './reducers'; 
 
 const store = createStore(rootReducer);
 
